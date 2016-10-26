@@ -1,5 +1,5 @@
 """
-	Project Euler - 3
+	Project Euler - 4
 	======================
 
     'A palindromic number reads the same both ways. The largest palindrome made
